@@ -3,8 +3,8 @@
 # --coding:utf-8--
 # @Author:kinni
 # @Time:  2019年05月28日 22:05:06
-# 说明:
-from DES_destruct import *
+# 说明:  des加密主文件
+from DES_BOX import *
 import re
 import base64
 
